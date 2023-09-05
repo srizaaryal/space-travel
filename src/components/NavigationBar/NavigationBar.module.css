@@ -1,0 +1,15 @@
+.Navigation-Bar-Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.NavLink {
+  border: 1px solid whitesmoke;
+  margin: 20px;
+  padding: 7px;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: white;
+}
